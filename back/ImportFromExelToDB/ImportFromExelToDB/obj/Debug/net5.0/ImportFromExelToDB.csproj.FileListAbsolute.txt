@@ -1,0 +1,17 @@
+D:\Проекты\C#\Hack\ImportFromExelToDB\ImportFromExelToDB\obj\Debug\net5.0\ImportFromExelToDB.csproj.AssemblyReference.cache
+D:\Проекты\C#\Hack\ImportFromExelToDB\ImportFromExelToDB\obj\Debug\net5.0\ImportFromExelToDB.GeneratedMSBuildEditorConfig.editorconfig
+D:\Проекты\C#\Hack\ImportFromExelToDB\ImportFromExelToDB\obj\Debug\net5.0\ImportFromExelToDB.AssemblyInfoInputs.cache
+D:\Проекты\C#\Hack\ImportFromExelToDB\ImportFromExelToDB\obj\Debug\net5.0\ImportFromExelToDB.AssemblyInfo.cs
+D:\Проекты\C#\Hack\ImportFromExelToDB\ImportFromExelToDB\obj\Debug\net5.0\ImportFromExelToDB.csproj.CoreCompileInputs.cache
+D:\Проекты\C#\Hack\ImportFromExelToDB\ImportFromExelToDB\bin\Debug\net5.0\ImportFromExelToDB.exe
+D:\Проекты\C#\Hack\ImportFromExelToDB\ImportFromExelToDB\bin\Debug\net5.0\ImportFromExelToDB.deps.json
+D:\Проекты\C#\Hack\ImportFromExelToDB\ImportFromExelToDB\bin\Debug\net5.0\ImportFromExelToDB.runtimeconfig.json
+D:\Проекты\C#\Hack\ImportFromExelToDB\ImportFromExelToDB\bin\Debug\net5.0\ImportFromExelToDB.runtimeconfig.dev.json
+D:\Проекты\C#\Hack\ImportFromExelToDB\ImportFromExelToDB\bin\Debug\net5.0\ImportFromExelToDB.dll
+D:\Проекты\C#\Hack\ImportFromExelToDB\ImportFromExelToDB\bin\Debug\net5.0\ref\ImportFromExelToDB.dll
+D:\Проекты\C#\Hack\ImportFromExelToDB\ImportFromExelToDB\bin\Debug\net5.0\ImportFromExelToDB.pdb
+D:\Проекты\C#\Hack\ImportFromExelToDB\ImportFromExelToDB\bin\Debug\net5.0\Microsoft.Office.Interop.Excel.dll
+D:\Проекты\C#\Hack\ImportFromExelToDB\ImportFromExelToDB\obj\Debug\net5.0\ImportFromExelToDB.dll
+D:\Проекты\C#\Hack\ImportFromExelToDB\ImportFromExelToDB\obj\Debug\net5.0\ref\ImportFromExelToDB.dll
+D:\Проекты\C#\Hack\ImportFromExelToDB\ImportFromExelToDB\obj\Debug\net5.0\ImportFromExelToDB.pdb
+D:\Проекты\C#\Hack\ImportFromExelToDB\ImportFromExelToDB\obj\Debug\net5.0\ImportFromExelToDB.genruntimeconfig.cache

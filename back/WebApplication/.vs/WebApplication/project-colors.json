@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "b8177228-418a-4ec3-94db-148cda6b48c3": {
+      "ProjectGuid": "b8177228-418a-4ec3-94db-148cda6b48c3",
+      "DisplayName": "WebApplication",
+      "ColorIndex": 0
+    },
+    "3f333ccb-4da7-424b-af06-5925a82d48a2": {
+      "ProjectGuid": "3f333ccb-4da7-424b-af06-5925a82d48a2",
+      "DisplayName": "RosAtomDataBase",
+      "ColorIndex": 1
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Прочие файлы",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 2
+}
